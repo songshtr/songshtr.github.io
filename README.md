@@ -3,6 +3,6 @@
 <a href= "https://www.youtube.com/channel/UCVRpMo19NwYKloFhnw6QzMg">youtube</a> |
 <a href="https://songshtr.bandcamp.com/">bandcamp</a> |
 <a href="https://soundcloud.com/songshtr/albums">soundcloud</a> |
-<a href="jukebox.md">working with jukebox</a>
+<a href="/jukebox.md">working with jukebox</a>
 
 #machineCROON
