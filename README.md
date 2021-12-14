@@ -8,4 +8,5 @@
 
 <iframe width="400" height="300" src="https://www.youtube.com/embed/_lcCJzfXl50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-It has been said that every man is a lie, ju
+
+It has been said that every man is a lie, just one in a line of lone and momentary men.
