@@ -1,6 +1,8 @@
 # songshtr.github.io
-<a href="https://github.com/songeater">codebase</a> | 
-<a href= "https://www.youtube.com/channel/UCVRpMo19NwYKloFhnw6QzMg">youtube</a>
+<a href= "https://www.youtube.com/channel/UCVRpMo19NwYKloFhnw6QzMg" target="_blank">youtube</a> |
+<a href= "https://twitter.com/songshtr" target="_blank">twitter</a> |
+<a href= "https://soundcloud.com/songshtr" target="_blank">soundcloud</a> |
+<a href="https://github.com/songeater" target="_blank">codebase</a>
 
 ### what is a songshtr
 
