@@ -16,7 +16,7 @@
 
 <p style="text-align: justify">In a separate piece, this third man also <a href= "https://www.gwern.net/docs/borges/1947-borges-anewrefutationoftime.pdf" target="_blank">argued</a> – uneasily, as even he admitted – that the construct of time was refutable, and that every man was a lie, an illusion strung together from discrete moments, from a line of lone and momentary men. Yet each such blink and flash was also a packet of information from which the next could be derived, and the previous too, and therefore this entire chain was inescapable and ironbound. So a man who lacked the capacity for music at any one moment in time – because of his tin ear or his flagging rhythm or his soggy voice – had likely lacked such capacity the moment before, and would surely lack it in the ever after. 
 <br><br>
-I had been born such a man, and forty years later my condition was uncorrected.  What hope then did I have to escape the chain but through the learning of machine-craft?</p>
+I had been born such a man, and forty years later my condition - a congenital dysmusia - lay dangerously uncorrected.  What hope then did I have to escape my chain but through the learning of machine-craft?</p>
 
 <p align="center"><iframe width="300" height="300" src="https://www.youtube.com/embed/ppjlIVoEezw?cc_load_policy=1&modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><i>"I had decided to wallow with my friends in a bucket of sex and violets"</i></p>
