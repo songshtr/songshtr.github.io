@@ -18,7 +18,7 @@
 
 <p style="text-align: justify">In a separate piece, this third man also <a href= "https://www.gwern.net/docs/borges/1947-borges-anewrefutationoftime.pdf" target="_blank">argued</a> – uneasily, as even he admitted – that the construct of time was refutable, and that every man was a lie, an illusion strung together from discrete moments, from a line of lone and momentary men. Yet each such blink-and-flash was also a packet of information from which the next could be derived, and the previous too, and therefore this entire chain was inescapable and ironbound. So a man who lacked the capacity for music at any one moment in time – because of his tin ear or his flagging rhythm or his soggy voice – had likely lacked such capacity the moment before, and would surely lack it in the ever after. 
 <br><br>
-SONGSHTR had been born such a man, with a dysmusia that allowed him to appreciate but never quite comprehend, or make.  His condition lay uncorrected forty years later.  
+SONGSHTR had been born such a man, with dysmusia that allowed him to appreciate but never quite comprehend.  His condition lay uncorrected forty years later.  
 <br><br>
 What hope did he have to escape his chain but through the learning of machine-craft?</p>
 
