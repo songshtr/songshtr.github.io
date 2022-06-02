@@ -1,3 +1,7 @@
+body {
+    max-width: 800px;
+}
+
 # songshtr.github.io
 <a href= "https://www.youtube.com/channel/UCVRpMo19NwYKloFhnw6QzMg" target="_blank">youtube</a> |
 <a href= "https://twitter.com/songshtr" target="_blank">twitter</a> |
