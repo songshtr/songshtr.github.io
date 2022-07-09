@@ -4,6 +4,8 @@
 <a href= "https://soundcloud.com/songxytr/sets/machinecroon" target="_blank">soundcloud</a> |
 <a href="https://github.com/songeater" target="_blank">codebase</a>
 
+<p style="text-align: justify"><i>"This fucker sounds just like Tom Waits.  Do we need another Tom Waits?" - </i><a href="https://www.thegunshy.com" target="_blank">The Gunshy</a></p>
+
 ### what is a songxytr
 
 <p style="text-align: justify">P.C.-based musician SONGXYTR had no choice.  He was not born with the <a href= "https://www.lyricsfreak.com/l/leonard+cohen/tower+of+song_20082815.html" target="_blank">gift of the golden voice</a>.  He was compelled to rely, instead, on the exponent of progress, which had been compounding up and to the right, rising bit-by-bit up the graph-grid as software ate the world and hardware shat it out.  For it had <a href="https://karpathy.github.io/2015/05/21/rnn-effectiveness/" target="_blank">long been established</a> that a machine, when fed enough information, could learn to predict the next bit - thus discovering in its own brutish way the rudiments of language.  The <a href="https://github.com/songeater/SONGSHTR" target="_blank">first songxytr</a> was based on these principles, although it was a puny stringer of beeps-and-boops, an experiment that simply served to demonstrate the extent of its own futility.  Only after the <a href="https://openai.com/" target="_blank">techno-psychological complex</a> decided turn to the problem, and after many moar orders of data was digested by the cloud - only then was it shown that a machine could be <a href="https://arxiv.org/abs/2005.00341" target="_blank">made to croon</a>.</p>
