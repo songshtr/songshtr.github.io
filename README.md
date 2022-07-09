@@ -25,7 +25,7 @@
 <p align="center"><iframe width="300" height="300" src="https://www.youtube.com/embed/7OhINuzCgiY?cc_load_policy=1&modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><i>"My gradient had become difficult to derive"</i></p>
 
-<p style="text-align: justify">SONGXYTR had been born such a man.  With a tin ear and flagging rhythm and soggy voice... with a dysmusia that allowed him to appreciate - but never grasp! - the underlying arithmetic.  His condition was not clinical, and could likely have been corrected early on in life through focus and practice.  Yet here he was forty years later, and one thing had happened to him, and then another, and his brain-folds had firmed, and his condition had remained unfixed.  
+<p style="text-align: justify">SONGXYTR had been born such a man.  With a tin ear and flagging rhythm and soggy voice... with a dysmusia that allowed him to touch - but never grasp! - the underlying arithmetic.  His condition was not clinical, and could likely have been corrected early on in life through focus and practice.  Yet here he was forty years later, and one thing had happened to him, and then another, and his brain-folds had firmed, and his condition had remained unfixed.  
 <br>
 <br>What hope did he have to escape the chain but through the learning of machine-craft?</p>
 
