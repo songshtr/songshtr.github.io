@@ -4,7 +4,7 @@
 <a href= "https://soundcloud.com/songxytr/sets/machinecroon" target="_blank">soundcloud</a> |
 <a href="https://github.com/songeater" target="_blank">codebase</a>
 
-<p style="text-align: justify"><i>"This fucker sounds just like Tom Waits.  Do we need another Tom Waits?" - </i><a href="https://www.thegunshy.com" target="_blank">the gunshy</a></p>
+<p style="text-align: justify"><i>"this fucker sounds just like tom waits.  do we need another tom waits?" - </i><a href="https://www.thegunshy.com" target="_blank">the gunshy</a></p>
 
 ### what is a songxytr
 
