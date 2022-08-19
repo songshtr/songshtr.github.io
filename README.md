@@ -1,3 +1,4 @@
+# yes that's how you say it out loud
 <a href= "https://www.youtube.com/channel/UCVRpMo19NwYKloFhnw6QzMg" target="_blank">youtube</a> |
 <a href= "https://twitter.com/songxytr" target="_blank">twitter</a> |
 <a href= "https://soundcloud.com/songxytr/sets/machinecroon" target="_blank">soundcloud</a> |
